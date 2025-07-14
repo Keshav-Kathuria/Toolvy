@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import { Search, Filter, ChevronRight, Sparkles, Code, FileText, Scale, Palette, BarChart3, Globe, Zap, Brain, Building, Star, Camera, Music, Video, Mic, Users, Shield, Briefcase, GraduationCap, Heart, Car, Home, Gamepad2, ShoppingCart, MessageSquare, Headphones, Smartphone, Monitor, Cpu, Database, Bot, Eye, Scissors, PenTool, Layers, Wand2, TrendingUp, Target, Mail, Calendar, Clock, DollarSign, Megaphone, BookOpen, Lightbulb, Settings } from 'lucide-react';
+import { Search, Filter, ChevronRight, Sparkles, Code, FileText, Scale, Palette, BarChart3, Globe, Zap, Brain, Building, Star, Camera, Music, Video, Mic, Users, Shield, Briefcase, GraduationCap, Heart, Car, Home, Gamepad2, ShoppingCart, MessageSquare, Headphones, Smartphone, Monitor, Cpu, Database, Bot, Eye, PenTool, Layers, Wand2, TrendingUp, Target, Mail, Calendar, Clock, DollarSign, Megaphone, BookOpen, Lightbulb, Settings } from 'lucide-react';
 
 interface AITool {
   id: string;
