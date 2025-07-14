@@ -990,7 +990,7 @@ function App() {
                 © 2025 Toolvy. Your gateway to the future of artificial intelligence.
               </p>
               <p className="text-sm text-gray-500 mt-1">
-                Featuring {aiTools.length} tools across {categories.length - 1} categories
+                 Built by Keshav · Featuring {aiTools.length} tools across {categories.length - 1} categories
               </p>
             </div>
           </div>
