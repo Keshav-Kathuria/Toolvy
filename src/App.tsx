@@ -722,7 +722,7 @@ function App() {
               <br />Directory
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-              Discover 50+ cutting-edge AI tools across 19 categories. From writing and development to healthcare and finance - 
+              Discover 50+ cutting-edge AI tools across 18 categories. From writing and development to healthcare and finance - 
               find the perfect AI tool for every need.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
